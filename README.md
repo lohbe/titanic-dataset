@@ -5,8 +5,8 @@ factors influencing survival.
 
 ## Getting Started
 
-The source data is stored in titanic-dataset.csv. Explore the analysis by
-opening `titanic-dataset.ipynb` in Jupyter notebook.
+The source data is stored in `titanic-data.csv`. Explore the analysis by
+opening `titanic-data.ipynb` in Jupyter notebook.
 
 ### Prerequisites
 
@@ -20,4 +20,4 @@ This project is licensed under the MIT License.
 
 ## Notes
 
-* This code was part of Udacity project submission.
+* This code was part of a [Udacity](www.udacity.com) project submission.
